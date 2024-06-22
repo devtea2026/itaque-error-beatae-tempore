@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/itaque-error-beatae-tempore",
-  "version": "2.2.48",
+  "version": "2.2.49",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -510,5 +510,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/itaque-error-beatae-tempore/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
